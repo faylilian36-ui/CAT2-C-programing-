@@ -1,7 +1,7 @@
 #include <stdio.h>
 /*
 NAME: FAY LILIAN AKINYI 
-REG NO: PA106/G/2878/25
+REG NO: PA106/G/28784/25
 DESCRIPTION: This program calculates the gross pay, taxes, and net pay for an employee based on hours worked and hourly wage.
 */
 
